@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+*{
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+body{
+    background-image: url(https://4.bp.blogspot.com/-xGzQuJPb0hI/V2v6JWImHyI/AAAAAAAFirI/2tjoKLp_YfoL9yrN7RFH0oBRvbIV5ta_gCLcB/s1600/EFECTOS%2B%2528355%2529.gif);
+    background-position: center bottom;
+
+}
+.a{
+    color: aqua;
+}
